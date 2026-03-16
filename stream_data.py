@@ -32,7 +32,7 @@ DRAW_GAZE = True
 WINDOW_NAME = "Gaze UDP (MediaPipe)"
 SAVE_DIR = "frames"
 RECORDING = False
-EXPORT_FPS = 2  
+EXPORT_FPS = 10  
 
 export_interval = 1.0 / EXPORT_FPS
 last_export_t = 0
